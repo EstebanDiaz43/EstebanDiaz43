@@ -60,6 +60,6 @@
 
 ###
 
-<p align="center"><a href="https://www.linkedin.com/in/esteban-demiljo-b91ba2351/">My LinkedIn </a></p>
+<p align="center"><a href="https://www.linkedin.com/in/esteban-demiljo-b91ba2351/">My LinkedIn </a> </br> Gmail: esteban.demiljo@gmail.com</p>
 
 ###
